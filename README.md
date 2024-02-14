@@ -48,7 +48,7 @@ Config [your-project-name].config.js, and copy to your /home/[your-name]/
             /* This should be the root of a mount point i.e a dedicated HDD for 24/7 recordings */
             storageVolume: 'your folder for save videos',
             /* Continuous recording settings */
-            ffmpegLocation: 'which ffpeg',
+            ffmpegLocation: 'which ffmpeg',
             continuousSegTimeMinutes: 15,
             continuousDays: 14,
             continuousPurgeIntervalHours: 24,
