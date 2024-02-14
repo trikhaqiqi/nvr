@@ -1,7 +1,7 @@
 
 # How to use this NVR?
 
-You must have this requirements for run this web.
+You must have this requirements for run this applications.
 
 
 ## Installation
