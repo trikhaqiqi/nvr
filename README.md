@@ -110,7 +110,7 @@ Config [your-project-name].config.js, and copy to your /home/[your-name]/
         }
     };
 ```
-
+Run this application.
 ```bash
  node main.js 
 ```
